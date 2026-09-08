@@ -8,7 +8,7 @@ Otherwise... there's really nothing interesting going on here.
 
 ## What's in this repo
 
-The `bcds-test-vite` folder contains a stock React app scaffolded using Vite.
+The [`bcds-test-vite`](https://github.com/mkernohanbc/bcds-test/tree/main/bcds-test-vite) folder contains a stock React app scaffolded using Vite. Use this for testing.
 
 ### Currently-installed libraries
 
