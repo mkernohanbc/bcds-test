@@ -6,7 +6,7 @@ Run `npm run dev` to start the dev server.
 
 ## What we're currently testing
 
-TBD
+New LLM system prompts for the B.C. Design System. Start here: [https://github.com/bcgov/design-system](https://github.com/bcgov/design-system)
 
 ## Installed dependencies
 
